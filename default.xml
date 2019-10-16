@@ -7,6 +7,6 @@
 
     <project path="build-iso/airootfs" name="usr" remote="pionux"/>
     <project path="build-iso/airootfs" name="sub-airoots" remote="pionux"/>
-    <project path="build-iso" name="pionux-src-iso-build " remote="pionux"/>
+    <project path="build-iso" name="pionux-src-iso-build" remote="pionux"/>
 </manifest>
  

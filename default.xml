@@ -9,7 +9,8 @@
     <project path="pionux-iso-bd/airootfs" name="sub-airoots" remote="pionux"/>
     <project path="pionux-iso-bd/airootfs/usr" name="usr" remote="pionux"/>
     <project path="pionux-iso-bd/airootfs/packages" name="packages" remote="pionux"/>
-    <project path="pionux-iso-bd/airootfs/usr/share/icons/Pirus" name="pirus-part-1" name="pirus-part-2" remote="pionux"/>
+    <project path="pionux-iso-bd/airootfs/usr/share/icons/Pirus" name="pirus-part-1" remote="pionux"/>
+    <project path="pionux-iso-bd/airootfs/usr/share/icons/Pirus" name="pirus-part-2" remote="pionux"/>
     
   
     

@@ -5,10 +5,9 @@
             fetch="https://github.com/pionux"
             revision="master" />
 
-    <project path="build" name="pionux-src-iso-build" remote="pionux"/>
+    <project path="root" name="pionux-src-iso-build" remote="pionux"/>
    
     
     
     
 </manifest>
- 

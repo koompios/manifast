@@ -8,6 +8,7 @@
     <project path="pionux-iso-bd" name="pionux-src-iso-build" remote="pionux"/>
     <project path="pionux-iso-bd/airootfs" name="sub-airoots" remote="pionux"/>
     <project path="pionux-iso-bd/airootfs/usr" name="usr" remote="pionux"/>
+    <project path="pionux-iso-bd/airootfs/packages" name="packages" remote="pionux"/>
    
     
     

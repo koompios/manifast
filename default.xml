@@ -6,7 +6,7 @@
             revision="master" />
 
     <project path="airootfs" name="usr" remote="pionux"/>
-    <project path="airootfs" name="sub-airoots" remote="pionux"/>
+    <project path="airootfs/us" name="sub-airoots" remote="pionux"/>
     
 </manifest>
  

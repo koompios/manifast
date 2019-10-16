@@ -5,7 +5,7 @@
             fetch="https://github.com/pionux"
             revision="master" />
 
-    <project path="usr" name="usr" remote="pionux" />
+    <project path="usr" name="usr" remote="pionux"/>
    
-</manifest>-
+</manifest>
  

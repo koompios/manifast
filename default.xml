@@ -6,7 +6,7 @@
             revision="master" />
 
     <project path="build" name="pionux-src-iso-build" remote="pionux"/>
-    <project path="airootfs" name="sub-airoots" remote="pionux"/>
+   
     
     
     

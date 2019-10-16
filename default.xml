@@ -6,9 +6,6 @@
             revision="master" />
 
     <project path="build-iso" name="pionux-src-iso-build" remote="pionux" />
-    <project path="build-iso/airoots" name="packages" remote="pionux" />
-    <project path="build-iso/airoots" name="usr" remote="pionux" />
-
-
-
+   
 </manifest>-
+ 

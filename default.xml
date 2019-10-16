@@ -5,8 +5,8 @@
             fetch="https://github.com/pionux"
             revision="master" />
 
-    <project path="build/airootfs/usr" name="usr" remote="pionux"/>
-    <project path="build/airootfs" name="sub-airoots" remote="pionux"/>
+    <project path="airootfs/usr" name="usr" remote="pionux"/>
+    <project path="airootfs" name="sub-airoots" remote="pionux"/>
     <project path="build" name="pionux-src-iso-build" remote="pionux"/>
     
 </manifest>
